@@ -1,1 +1,1 @@
-hello conflict-branch
+hello from conflict-branch
